@@ -2,7 +2,7 @@
 
 API - FATEC Prof. Jessen Vidal - São José dos Campos / 2021
 
-# Resumo do projeto:
+## Resumo do projeto:
 A Necto, em parceria com os alunos do 2º semestre do curso de Banco de Dados da Fatec de SJC, nos explicou o problema que tinha em sua empresa.
 
 - "Eu tenho visão estratégica dos projetos, tarefas e horas trabalhadas pelos meus funcionários, porém eu gostaria de um software com mais funcionalidades do que o método que é utilizo atualmente."
@@ -15,7 +15,7 @@ Com isso, foi desenvolvido uma API Rest em Java. Esse software contém as seguin
 - Painel de tasks: Foi incluido um botão na página do cronograma onde o cliente poderia usá-lo para criar novas atividades ou projeto e atribuir para os membros do seu time.
 - Projetos e Tasks interativas: No cronograma, o cliente tinha o poder de mudar a data de inicio/fim dos projetos ou tasks com um simples drag and drop na página.
 
-# Técnologias utilizadas na solução
+## Técnologias utilizadas na solução
 - MySQL:
   - Para a criação do software, foi necessário a criação de um banco de dados para o armazenamento das informações utilizadas (Informações dos clientes, dados de pagamentos e dívidas e etc);
 - Java 1.8: O Back-end do projeto foi criado com a linguagem de programação Java:
@@ -31,7 +31,7 @@ Com isso, foi desenvolvido uma API Rest em Java. Esse software contém as seguin
   - A linguagem de JavaScript foi utilizada para auxiliar na criação do nosso front-end e na comunicação entre o front e o back.
 
 
-# Contribuições individuais/pessoais
+## Contribuições individuais/pessoais
 A minha contribuição para o desenvolvimento do projeto foi tanto no back-end qunanto no front-end da nossa aplicação! 
 
 ### Criação das classes
