@@ -85,6 +85,8 @@ Com isso, foi desenvolvido uma API Rest em Java. Esse software contém as seguin
 
 # Contribuições individuais/pessoais
 Para a aplicação desse API a principal palavra era inovação, trazer ideias novas para o time do SPC. Pensando nisso, trouxemos a ideia de criar uma gameficação para a nossa aplicação, onde eu fiquei responsável por essa funcionalidade. Entre minhas atividades estavam: pesquisar, desenvolver e implementar um tipo de gamificação para a aplicação que estavámos desenvolvendo, comunicação do front-end com o back-end, desenvolvimento da função de cadastro de usuários e login da aplicação.
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar.PNG)
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar1.PNG)
 
 ## Hard Skills efetivamente desenvolvidas:
 - JAVA
