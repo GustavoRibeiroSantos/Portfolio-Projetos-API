@@ -179,15 +179,18 @@ como clientes. Precisamos ajustar o banco de dados, pensando em um grande proces
   - Foi a ferramenta de OLAP para exibir os dados persistidos no banco de dados .
 
 ##  Contribuições individuais/pessoais
-Para o primeiro projeto API, como a linguagem escolhida foi Python, então fiquei responsável por auxiliar na criação do desenvolvimento do back-end da aplicação. Criação das rotas web-servers, tratamento dos dados recebidos do front-end e conexão com o banco de dados Mongo.
-![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar2.PNG)
+Nesse projeto de API, havia um diferencial dos outros projetos, a implementação do DevOps na nossa solução. A miha cntribuição para a nossa solução foi relacionada a pesquisa, desenvolvimento e implementação do CI/CD. Eu desenvolvi o script do CI/CD no nosso repositório do Git e criei o ambiente de teste para as validações do script do CI/CD.
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/cicd.png)
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar3.PNG)
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar4.PNG)
 
 ##  Hard Skills efetivamente desenvolvidas:
 
 - HTML
 - Python
 - Django
-- MongoDB
+- Power BI
+- SQL
 
 ##  Soft Skills efetivamente desenvolvidas:
 
