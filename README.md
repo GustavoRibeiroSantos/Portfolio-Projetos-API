@@ -160,3 +160,39 @@ Para essa aplicação, como a ideia era focar especificamente em uma API back-en
 - Proatividade
 - Comunicação
 - Trabalho em equipe
+
+
+##  Em 2021-2 Ness:
+Nesse semestre, a proposta de projeto para o API era desenvolver uma solução de dados voltada ao ensino a distância para a gestão e oferta do conhecimento, sendo apto a prover suporte às mais variadas arquiteturas de aprendizagem, alinhado com os objetivos estratégicos a serem alcançados pelas organizações que atendermos
+como clientes. Precisamos ajustar o banco de dados, pensando em um grande processamento de dados com ganho de escalabilidade e integração contínua entre os ambientes. Adicionar na solução atual um banco de dados não relacional para armazenar os chats e os logs. Deve ser desenvolvido um pipeline de dados e analytics, a fim de manter um DW e um modelo OLAP para visualização e análise de dados.
+
+##  Técnologias utilizadas na solução
+
+- SQL:
+	- Banco de Dados usado para armazenar as informações de aluno, professor, curso, matéria e etc.
+- Python: O Back-end do projeto foi criado com a linguagem de programação Python:
+	- Django: Foi framework de projeto usado para a criação da aplicação.
+	- Selenium: Foi o framework usado para a criação do script de automação para o Webbot coletar os dados na Web;
+- Gradle:
+	- Utilizamos Gradle para gerenciar os importes, dependências e bibliotecas que foram utilizadas no projeto, especificamente no back-end;
+- Power BI;
+  - Foi a ferramenta de OLAP para exibir os dados persistidos no banco de dados .
+
+##  Contribuições individuais/pessoais
+Para o primeiro projeto API, como a linguagem escolhida foi Python, então fiquei responsável por auxiliar na criação do desenvolvimento do back-end da aplicação. Criação das rotas web-servers, tratamento dos dados recebidos do front-end e conexão com o banco de dados Mongo.
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar2.PNG)
+
+##  Hard Skills efetivamente desenvolvidas:
+
+- HTML
+- Python
+- Django
+- MongoDB
+
+##  Soft Skills efetivamente desenvolvidas:
+
+- Autonomia
+- Organização
+- Proatividade
+- Comunicação 
+- Trabalho em equipe
