@@ -121,7 +121,7 @@ Para a aplicação desse API a principal palavra era inovação, trazer ideias n
 ## Hard Skills efetivamente desenvolvidas:
 - JAVA
 - SPRING BOOT
-- JAVA SPRINT
+- JAVASCRIPT
 
 ## Soft Skills efetivamente desenvolvidas: 
 - Autonomia
