@@ -22,7 +22,7 @@ No primeiro semestre, a proposta de projeto para o API foi desenvolvimento de um
 
 ##  Contribuições individuais/pessoais
 Para o primeiro projeto API, como a linguagem escolhida foi Python, então fiquei responsável por auxiliar na criação do desenvolvimento do back-end da aplicação. Criação das rotas web-servers, tratamento dos dados recebidos do front-end e conexão com o banco de dados Mongo.
-![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar2.PNG)
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/pictures/Capturar2.PNG)
 
 ##  Hard Skills efetivamente desenvolvidas:
 
@@ -115,8 +115,8 @@ Com isso, foi desenvolvido uma API Rest em Java. Esse software contém as seguin
 
 # Contribuições individuais/pessoais
 Para a aplicação desse API a principal palavra era inovação, trazer ideias novas para o time do SPC. Pensando nisso, trouxemos a ideia de criar uma gameficação para a nossa aplicação, onde eu fiquei responsável por essa funcionalidade. Entre minhas atividades estavam: pesquisar, desenvolver e implementar um tipo de gamificação para a aplicação que estávamos desenvolvendo, comunicação do front-end com o back-end, desenvolvimento da função de cadastro de usuários e login da aplicação.
-![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar.PNG)
-![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar1.PNG)
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/pictures/Capturar.PNG)
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/pictures/Capturar1.PNG)
 
 ## Hard Skills efetivamente desenvolvidas:
 - JAVA
@@ -180,9 +180,9 @@ como clientes. Precisamos ajustar o banco de dados, pensando em um grande proces
 
 ##  Contribuições individuais/pessoais
 Nesse projeto de API, havia um diferencial dos outros projetos, a implementação do DevOps na nossa solução. A minha contribuição para a nossa solução foi relacionada a pesquisa, desenvolvimento e implementação do CI/CD. Eu desenvolvi o script do CI/CD no nosso repositório do Git e criei o ambiente de teste para as validações do script do CI/CD.
-![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/cicd.png)
-![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar3.PNG)
-![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/Capturar4.PNG)
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/pictures/cicd.png)
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/pictures/Capturar3.PNG)
+![alt text](https://github.com/GustavoRibeiroSantos/Portifolio-API/blob/main/pictures/Capturar4.PNG)
 
 ##  Hard Skills efetivamente desenvolvidas:
 
